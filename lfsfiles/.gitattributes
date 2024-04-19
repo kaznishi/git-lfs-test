@@ -1,1 +1,1 @@
-lfsfiles/data.txt filter=lfs diff=lfs merge=lfs -text
+data.txt filter=lfs diff=lfs merge=lfs -text
